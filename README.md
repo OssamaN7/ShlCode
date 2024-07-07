@@ -1,2 +1,3 @@
 # ShlCode
-Binary Shellcode Generator
+Simple Binary Shellcode Generator
+The 1irtst version
